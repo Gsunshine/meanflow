@@ -181,7 +181,7 @@ The 2nd and 3nd row correspond to Table 1. (f) and Table 5, using the same effec
 
 ## TODO
 
-- [ ] Dependencies and sanity check for GPU.
+- [x] Dependencies and sanity check for GPU. (FID=11.29 with default training setting)
 
 ## License
 
