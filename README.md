@@ -13,7 +13,8 @@ This is the official JAX implementation for the paper [Mean Flows for One-step G
 
 ## Update
 
-- 26.01.31 Release the [JAX and Pytorch code](https://github.com/Lyy-iiis/imeanflow) for [improved MeanFlow](https://arxiv.org/abs/2512.02012) (iMF)!
+- 26.02.05 Release the [JAX and Pytorch code](https://github.com/Lyy-iiis/pMF) for [pixel MeanFlow](https://arxiv.org/abs/2601.22158) (pMF). Go E2E!
+- 26.01.31 Release the [JAX and Pytorch code](https://github.com/Lyy-iiis/imeanflow) for [improved MeanFlow](https://arxiv.org/abs/2512.02012) (iMF).
 - 25.07.29 Release the [Pytorch code](https://github.com/Gsunshine/py-meanflow) for CIFAR-10.
 - 25.07.29 JAX+GPU sanity check by [this PR](https://github.com/Gsunshine/meanflow/pull/5). Thanks to [@Wenhao](https://github.com/rese1f)!
 
